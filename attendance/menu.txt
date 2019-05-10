@@ -1,0 +1,59 @@
+<!-- Sidebar Menu -->
+                <ul class="sidebar-menu" data-widget="tree">
+                    <li class="header">考勤管理系统</li>
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-dashboard"></i> <span>基础数据管理</span>
+                            <span class="pull-right-container">
+                                <i class="fa fa-angle-left pull-right"></i>
+                            </span>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li><a href="index.html"><i class="fa fa-circle-o"></i>学生管理</a></li>
+                            <li><a href="index.html"><i class="fa fa-circle-o"></i>教师管理</a></li>
+                            <li><a href="index.html"><i class="fa fa-circle-o"></i>课程管理</a></li>
+                            <li><a href="index.html"><i class="fa fa-circle-o"></i>教学任务管理</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-dashboard"></i> <span>人脸数据管理</span>
+                            <span class="pull-right-container">
+                                <i class="fa fa-angle-left pull-right"></i>
+                            </span>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li><a href="index.html"><i class="fa fa-circle-o"></i>人脸注册</a></li>
+                            <li><a href="index.html"><i class="fa fa-circle-o"></i>人脸数据管理</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-dashboard"></i> <span>考勤信息管理</span>
+                            <span class="pull-right-container">
+                                <i class="fa fa-angle-left pull-right"></i>
+                            </span>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li><a href="index.html"><i class="fa fa-circle-o"></i>考勤信息管理</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-dashboard"></i> <span>请假管理</span>
+                            <span class="pull-right-container">
+                                <i class="fa fa-angle-left pull-right"></i>
+                            </span>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li><a href="index.html"><i class="fa fa-circle-o"></i>请假申请</a></li>
+                            <li><a href="index.html"><i class="fa fa-circle-o"></i>请假审批</a></li>
+                        </ul>
+                    </li>
+
+                    
+                </ul>
+                <!-- /.sidebar-menu -->
